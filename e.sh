@@ -1,5 +1,5 @@
 #!/bin/bash
-e=10
+e=40
 if [ $e -gt 18 ]
 then 
 echo "e is grater"
